@@ -1,4 +1,5 @@
 # 地磁坐标计算工具箱
+<img width="794" height="422" alt="image" src="https://github.com/user-attachments/assets/dd44be3f-4953-4d7a-8b7d-83ea458cf589" />
 
 ## 功能简介
 这是一个基于MATLAB开发的地磁坐标计算工具箱，用于计算给定地理坐标点对应的地磁坐标。该工具箱提供了直观的图形用户界面，可以方便地输入地理坐标和时间信息，并实时显示计算结果和位置标记。
